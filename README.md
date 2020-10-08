@@ -6,6 +6,9 @@ society of [IIIT Ranchi](iiitranchi.ac.in).
 # About project
 this project is mainly an application of "Natural Language Processing" domain of deep learning and aims at making you learn by doing.
 
+we plan on implementing the chatbot and saving all checkpoints and assets in dedicated folder and then it will be exported to the hg-Website
+
+
 take up this project and contribute according to your capabilities.
 
 Happy Open-sourcing.
@@ -28,17 +31,7 @@ The goal? To find helpful contributors seeking projects to improve in the name o
 
 We are committed towards promoting open-source and to make a collaborative environment between developers.
 
-#Folder functions:
-* sandbox : gives you the testing ground, test and tune your hyperparameters by copying or using the required functions and do not mess up your actual code.
-
-* train: this is the folder that contains the data files and functions to implement the model, if you want to test other models, try to work in # sandbox #
-
-* test: this contains your testing data, before creating a pull request make sure you are getting an accuracy or time taken better than the current model.
-
-* query: this is the folder that contains all our finally trained parameters and just focuses on returning the answer to a query made by user.
-
-* this contains the main structure of our bot and will reference all the functions and answer queries.
-
+for folder functions read the readme file of dedicated folder.
 
 # criteria of PR acceptance:
 
